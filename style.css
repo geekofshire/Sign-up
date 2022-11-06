@@ -36,9 +36,10 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    font-size: larger;
 }
 .above{
     display: flex;
-    flex-flow: row wrap;
+    flex-direction: column;
     gap:18px;
 }
